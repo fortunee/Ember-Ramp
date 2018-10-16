@@ -6,7 +6,7 @@
 **Coverage:** Knowledge - Understanding EmberJS Framework
 **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
 
-__***DAY 1 -  _4 Hours***__
+**DAY 1 -  _4 Hours_:**
 
 - [ ] **Ember CLI Basics**
   - [ ] Installing Ember CLI
@@ -25,7 +25,7 @@ __***DAY 1 -  _4 Hours***__
   - [ ] Using Mixins
   - [ ] Using Enumerables with Arrays
 
-DAY 2 -  _4 Hours_
+**DAY 2 -  _4 Hours_:**
 
 - [ ] **Ember Templates**
   - [ ] [ ] Working with Classes and Instances
@@ -37,7 +37,7 @@ DAY 2 -  _4 Hours_
   - [ ] [ ] Using Template Input Helpers
   - [ ] [ ] Using Development Helpers
 
-DAY 3 -  _4 Hours_
+**DAY 3 -  _4 Hours_:**
 
 - [ ] **Ember Router**
   - [ ] Defining an Application Route
@@ -48,7 +48,7 @@ DAY 3 -  _4 Hours_
   - [ ] Loading and Error Handling
   - [ ] Using Query Parameters
 
-DAY 4 -  _4 Hours_
+**DAY 4 -  _4 Hours_:**
 
 - [ ] **Ember Controllers**
   - [ ] Working with Classes and Instances
@@ -62,7 +62,7 @@ DAY 4 -  _4 Hours_
   - [ ] Implementing Actions in Components
   - [ ] Passing Properties to a Component Using Yield with Components
 
-DAY 5 -  _4 Hours_
+**DAY 5 -  _4 Hours_:**
 
 - [ ] Developer conducts demo based on level up areas.
 - [ ] Developer provide high level report on progress made.
@@ -74,7 +74,7 @@ DAY 5 -  _4 Hours_
 **Coverage:** Knowledge - Working with Data / Logging Testing Debugging
 **Purpose:** to understand Data Binding regarding the knowledge and skill level of Developer as far as EmberJS is concerned
 
-DAY 1-  _4 Hours_
+**DAY 1-  _4 Hours_:**
 
 - [ ] **Ember Models and Ember Data**
   - [ ] Understanding the Functionalities of Ember
@@ -83,7 +83,7 @@ DAY 1-  _4 Hours_
   - [ ] Customizing the Adapter and Serializer
   - [ ] Working with Relationships
 
-DAY 2- _4 Hours_
+**DAY 2- _4 Hours_:**
 
 - [ ] **Logging Debugging and Testing**
   - [ ] Using Ember.Logger
@@ -93,7 +93,7 @@ DAY 2- _4 Hours_
   - [ ] Testing Components
   - [ ] Testing Routes, Models, and Controllers
 
-DAY 3 - _4 Hours_
+**DAY 3 - _4 Hours_:**
 
 - [ ] **Real-Life Tasks with Ember.js**
   - [ ] Using Services with a Component
@@ -103,7 +103,7 @@ DAY 3 - _4 Hours_
   - [ ] Working with HTML5 Drag and Drop
   - [ ] Learning Bootstrap with Ember.js
 
-DAY 4 -  _4 Hours_
+**DAY 4 -  _4 Hours_:**
 
 - [ ] **Awesome Tasks with Ember**
   - [ ] Using Ember Validations
@@ -117,7 +117,7 @@ DAY 4 -  _4 Hours_
   - [ ] Loading and Error Handling
   - [ ] Using Query Parameters
 
-DAY 5 -  _4 Hours_
+**DAY 5 -  _4 Hours_:**
 
 - [ ] Developer conducts demo based on level up areas
 - [ ] Developer provide high level report on progress made
@@ -129,7 +129,7 @@ DAY 5 -  _4 Hours_
 **Coverage:** Modularising and writing better code with EmberJS
 **Purpose:** Fine-tuning Ember Applications and perfecting the app
 
-DAY 1 -  _4 Hours_
+**DAY 1 -  _4 Hours_:**
 
 - [ ] **Digging Deeper into Ember**
   - [ ] Overview
@@ -137,7 +137,7 @@ DAY 1 -  _4 Hours_
   - [ ] Ember Run Loop
   - [ ] Dependency Injection
 
-DAY 2 -  _4 Hours_
+**DAY 2 -  _4 Hours_:**
 
 - [ ] **Advanced Routing**
   - [ ] Nested Routes
@@ -145,7 +145,7 @@ DAY 2 -  _4 Hours_
   - [ ] Asynchronous Routing
   - [ ] Handling Fulfilment and Rejection
 
-DAY 3 -  _4 Hours_
+**DAY 3 -  _4 Hours_:**
 
 - [ ] **Working with Multiple Ember Applications**
   - [ ] Creating Add-ons
@@ -153,14 +153,14 @@ DAY 3 -  _4 Hours_
   - [ ] Ember Engines
   - [ ] Developing Engines
 
-DAY 4-  _4 Hours_
+**DAY 4-  _4 Hours_:**
 
 - [ ] **Advanced Ember Usage**
   - [ ] Embedded Applications
   - [ ] Fastboot
   - [ ] Ember 3
 
-DAY 5 - _4 Hours_
+**DAY 5 - _4 Hours_:**
 
 - [ ] Developer conducts demo based on level up areas
 - [ ] Developer provide high level report on progress made
@@ -174,7 +174,7 @@ Milestone: SKILL LEVEL TESTING : PROGRESS DETERMINATION
 Coverage : Knowledge + Expertise From Practising + Autonomy
 Purpose : To have an Emperical Score of His Skillset at the end of the Plan, to boost his confidence to allow him to work with EmberJS with Autonomy
 
-DAYS 1-5 - _20 Hours_
+**DAYS 1-5 - _20 Hours_:**
 
 - [ ] Develop App from the ground up using EmberJS
 - [ ] TSM Gives Report to PXM and Headspace Team
