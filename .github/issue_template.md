@@ -1,9 +1,9 @@
-# EMBER JS - [ ] Leveling Up Plan
+# EMBER JS - Leveling Up Plan
 
 ## Week 1
 
-**Time Commitment:** Week 1 - [ ] 20hrs/Week
-**Coverage:** Knowledge - [ ] Understanding EmberJS Framework
+**Time Commitment:** Week 1 - 20hrs/Week
+**Coverage:** Knowledge - Understanding EmberJS Framework
 **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
 
 DAY 1 -  _4 Hours_
@@ -71,7 +71,7 @@ DAY 5 -  _4 Hours_
 ## Week 2
 
 **Time Commitment:** 20hrs/Week
-**Coverage:** Knowledge - [ ] Working with Data / Logging Testing Debugging
+**Coverage:** Knowledge - Working with Data / Logging Testing Debugging
 **Purpose:** to understand Data Binding regarding the knowledge and skill level of Developer as far as EmberJS is concerned
 
 DAY 1-  _4 Hours_
