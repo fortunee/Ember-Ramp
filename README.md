@@ -6,9 +6,9 @@
 - **Coverage:** Knowledge - Understanding EmberJS Framework
 - **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
 
-DAY 1 - _4 Hours_
+_DAY 1 - 4 Hours_
 
-- ****** Ember CLI Basics**
+- **Ember CLI Basics**
   - Installing Ember CLI
   - Creating your first Project
   - Exploring Pods and the Folder Layout
@@ -17,7 +17,7 @@ DAY 1 - _4 Hours_
   - Upgrading Your Ember Project to Latest Version
   - Deploying your Application
 
-- ****** Ember Object Model**
+- **Ember Object Model**
   - Working with Classes and Instances
   - Working with Computed Properties
   - Working with Observers in Ember.js
@@ -27,7 +27,7 @@ DAY 1 - _4 Hours_
 
 DAY 2 - _4 Hours_
 
-- ****** Ember Templates**
+- **Ember Templates**
   - Working with Classes and Instances
   - Working with Conditionals in Templates
   - Displaying a List of Items
@@ -39,7 +39,7 @@ DAY 2 - _4 Hours_
 
 DAY 3 - _4 Hours_
 
-- ****** Ember Router**
+- **Ember Router**
   - Defining an Application Route
   - Setting Up a Route Model
   - Handling Dynamic Segments Inside Routes
@@ -50,13 +50,13 @@ DAY 3 - _4 Hours_
 
 DAY 4 - _4 Hours_
 
-- ****** Ember Controllers**
+- **Ember Controllers**
   - Working with Classes and Instances
   - Handling Actions in Controllers
   - Working with Transitions
   - Managing Dependencies Between Controllers
 
-- ****** Ember Components**
+- **Ember Components**
   - Using Components in an Application
   - Using Events in Components
   - Implementing Actions in Components
@@ -76,7 +76,7 @@ DAY 5 - _4 Hours_
 
 DAY 1- _4 Hours_
 
-- ****** Ember Models and Ember Data**
+- **Ember Models and Ember Data**
   - Understanding the Functionalities of Ember
   - Creating, Reading, Updating, and Deleting Records with Ember Data
   - Using Fixtures - Setting up Fixtures with Ember CLI Mirage
@@ -85,7 +85,7 @@ DAY 1- _4 Hours_
 
 DAY 2- _4 Hours_
 
-- ****** Logging Debugging and Testing**
+- **Logging Debugging and Testing**
   - Using Ember.Logger
   - Using Ember Inspector and Verifying Deprecations
   - Using Acceptance Testing
@@ -95,7 +95,7 @@ DAY 2- _4 Hours_
 
 DAY 3 - _4 Hours_
 
-- ****** Real-Life Tasks with Ember.js**
+- **Real-Life Tasks with Ember.js**
   - Using Services with a Component
   - Managing Basic Authentication
   - Using OAuth2 with Ember Simple Auth
@@ -105,7 +105,7 @@ DAY 3 - _4 Hours_
 
 DAY 4 - _4 Hours_
 
-- ****** Awesome Tasks with Ember**
+- **Awesome Tasks with Ember**
   - Using Ember Validations
   - Using D3.js with Ember.js
   - Using Ember with Socket.IO
@@ -131,7 +131,7 @@ DAY 5 - _4 Hours_
 
 DAY 1 - _4 Hours_
 
-- ****** Digging Deeper into Ember**
+- **Digging Deeper into Ember**
   - Overview
   - Initializers
   - Ember Run Loop
@@ -139,7 +139,7 @@ DAY 1 - _4 Hours_
 
 DAY 2 - _4 Hours_
 
-- ****** Advanced Routing**
+- **Advanced Routing**
   - Nested Routes
   - Promises
   - Asynchronous Routing
@@ -147,7 +147,7 @@ DAY 2 - _4 Hours_
 
 DAY 3 - _4 Hours_
 
-- ****** Working with Multiple Ember Applications**
+- **Working with Multiple Ember Applications**
   - Creating Add-ons
   - Developing Add-ons
   - Ember Engines
@@ -155,7 +155,7 @@ DAY 3 - _4 Hours_
 
 DAY 4- _4 Hours_
 
-- ****** Advanced Ember Usage**
+- **Advanced Ember Usage**
   - Embedded Applications
   - Fastboot
   - Ember 3
