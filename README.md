@@ -6,7 +6,7 @@
 - **Coverage:** Knowledge - Understanding EmberJS Framework
 - **Purpose:** To set our baseline for pace and gain an understanding of the current knowledge and skill level of Developer with EmberJS
 
-_DAY 1 - 4 Hours_
+DAY 1 - _4 Hours_
 
 - **Ember CLI Basics**
   - Installing Ember CLI
