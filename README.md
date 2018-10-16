@@ -1,5 +1,7 @@
 # EMBER JS - Leveling Up Plan
 
+Below is a summary of tasks, please use [this link](https://github.com/jensenfleming/Ember-Ramp/blob/master/docs/Checklist_template.md)to create your own checklist. 
+
 ## Week 1
 
 - **Time Commitment:** Week 1 - 20hrs/Week
