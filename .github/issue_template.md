@@ -28,14 +28,14 @@
 **DAY 2 -  _4 Hours_:**
 
 - [ ] **Ember Templates**
-  - [ ] [ ] Working with Classes and Instances
-  - [ ] [ ] Working with Conditionals in Templates
-  - [ ] [ ] Displaying a List of Items
-  - [ ] [ ] Binding with Element Attributes and Classes
-  - [ ] [ ] Working with HTML Links Inside Templates
-  - [ ] [ ] Handling HTML Actions
-  - [ ] [ ] Using Template Input Helpers
-  - [ ] [ ] Using Development Helpers
+  - [ ] Working with Classes and Instances
+  - [ ] Working with Conditionals in Templates
+  - [ ] Displaying a List of Items
+  - [ ] Binding with Element Attributes and Classes
+  - [ ] Working with HTML Links Inside Templates
+  - [ ] Handling HTML Actions
+  - [ ] Using Template Input Helpers
+  - [ ] Using Development Helpers
 
 **DAY 3 -  _4 Hours_:**
 
