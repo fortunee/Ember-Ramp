@@ -99,21 +99,21 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 **DAY 3 - _4 Hours_:**
 
 - [ ] **Real-Life Tasks with Ember.js**
-  - [ ] Play with Headspace authentication library and Style Guide (deep dive) **(new addition)
+  - [ ] Play with Headspace authentication library and Style Guide (deep dive) **(new addition)**
   - [ ] Using Services with a Component
-  - [ ] Managing Basic Authentication **(not required)
-  - [ ] Using OAuth2 with Ember Simple Auth **(not required)
-  - [ ] Using Liquid Fire to Create Transitions **(not required)
+  - [ ] Managing Basic Authentication **(not required)**
+  - [ ] Using OAuth2 with Ember Simple Auth **(not required)**
+  - [ ] Using Liquid Fire to Create Transitions **(not required)**
   - [ ] Working with HTML5 Drag and Drop
-  - [ ] Learning Bootstrap with Ember.js **(not required)
+  - [ ] Learning Bootstrap with Ember.js **(not required)**
 
 **DAY 4 -  _4 Hours_:**
 
 - [ ] **Awesome Tasks with Ember**
-  - [ ] Using Ember Validations **(not required)
+  - [ ] Using Ember Validations **(not required)**
   - [ ] Using D3.js with Ember.js
-  - [ ] Using Ember with Socket.IO **(not required)
-  - [ ] Using Server-Side Rendering **(not required)
+  - [ ] Using Ember with Socket.IO **(not required)**
+  - [ ] Using Server-Side Rendering **(not required)**
   - [ ] Setting Up a Route Model
   - [ ] Handling Dynamic Segments Inside Routes
   - [ ] Defining Routes with Templates
