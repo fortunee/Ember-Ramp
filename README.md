@@ -11,18 +11,18 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 **DAY 1 -  _4 Hours_:**
 
-- [ ] **Ember CLI Basics**
-  - [ ] Installing Ember CLI
-  - [ ] Creating your first Project
-  - [ ] Exploring Pods and the Folder Layout
-  - [ ] Compiling Assets
-  - [ ] Managing Dependency
+- [x] **Ember CLI Basics**
+  - [x] Installing Ember CLI
+  - [x] Creating your first Project
+  - [x] Exploring Pods and the Folder Layout
+  - [x] Compiling Assets
+  - [x] Managing Dependency
   - [ ] Upgrading Your Ember Project to Latest Version
-  - [ ] Deploying your Application
+  - [x] Deploying your Application
 
-- [ ] **Ember Object Model**
-  - [ ] Working with Classes and Instances
-  - [ ] Working with Computed Properties
+- [x] **Ember Object Model**
+  - [x] Working with Classes and Instances
+  - [x] Working with Computed Properties
   - [ ] Working with Observers in Ember.js
   - [ ] Working with Bindings
   - [ ] Using Mixins
@@ -30,21 +30,21 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 **DAY 2 -  _4 Hours_:**
 
-- [ ] **Ember Templates**
-  - [ ] Working with Classes and Instances
+- [x] **Ember Templates**
+  - [x] Working with Classes and Instances
   - [ ] Working with Conditionals in Templates
-  - [ ] Displaying a List of Items
+  - [x] Displaying a List of Items
   - [ ] Binding with Element Attributes and Classes
-  - [ ] Working with HTML Links Inside Templates
-  - [ ] Handling HTML Actions
+  - [x] Working with HTML Links Inside Templates
+  - [x] Handling HTML Actions
   - [ ] Using Template Input Helpers
   - [ ] Using Development Helpers
 
 **DAY 3 -  _4 Hours_:**
 
-- [ ] **Ember Router**
-  - [ ] Defining an Application Route
-  - [ ] Setting Up a Route Model
+- [x] **Ember Router**
+  - [x] Defining an Application Route
+  - [x] Setting Up a Route Model
   - [ ] Handling Dynamic Segments Inside Routes
   - [ ] Defining Routes with Templates
   - [ ] Using Redirection with Routes
