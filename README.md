@@ -23,7 +23,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 - [x] **Ember Object Model**
   - [x] Working with Classes and Instances
   - [x] Working with Computed Properties
-  - [ ] Working with Observers in Ember.js
+  - [x] Working with Observers in Ember.js
   - [ ] Working with Bindings
   - [ ] Using Mixins
   - [ ] Using Enumerables with Arrays
@@ -32,7 +32,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 - [x] **Ember Templates**
   - [x] Working with Classes and Instances
-  - [ ] Working with Conditionals in Templates
+  - [x] Working with Conditionals in Templates
   - [x] Displaying a List of Items
   - [ ] Binding with Element Attributes and Classes
   - [x] Working with HTML Links Inside Templates
@@ -46,7 +46,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
   - [x] Defining an Application Route
   - [x] Setting Up a Route Model
   - [ ] Handling Dynamic Segments Inside Routes
-  - [ ] Defining Routes with Templates
+  - [x] Defining Routes with Templates
   - [ ] Using Redirection with Routes
   - [ ] Loading and Error Handling
   - [ ] Using Query Parameters
@@ -55,14 +55,14 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 - [ ] **Ember Controllers**
   - [ ] Working with Classes and Instances
-  - [ ] Handling Actions in Controllers
+  - [x] Handling Actions in Controllers
   - [ ] Working with Transitions
   - [ ] Managing Dependencies Between Controllers
 
 - [ ] **Ember Components**
   - [ ] Using Components in an Application
   - [ ] Using Events in Components
-  - [ ] Implementing Actions in Components
+  - [x] Implementing Actions in Components
   - [ ] Passing Properties to a Component Using Yield with Components
 
 **DAY 5 -  _4 Hours_:**
