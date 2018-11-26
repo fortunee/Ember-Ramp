@@ -60,8 +60,8 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
   - [ ] Managing Dependencies Between Controllers
 
 - [ ] **Ember Components**
-  - [ ] Using Components in an Application
-  - [ ] Using Events in Components
+  - [x] Using Components in an Application
+  - [x] Using Events in Components
   - [x] Implementing Actions in Components
   - [ ] Passing Properties to a Component Using Yield with Components
 
