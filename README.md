@@ -24,7 +24,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
   - [x] Working with Classes and Instances
   - [x] Working with Computed Properties
   - [x] Working with Observers in Ember.js
-  - [ ] Working with Bindings
+  - [x] Working with Bindings
   - [ ] Using Mixins
   - [ ] Using Enumerables with Arrays
 
@@ -34,7 +34,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
   - [x] Working with Classes and Instances
   - [x] Working with Conditionals in Templates
   - [x] Displaying a List of Items
-  - [ ] Binding with Element Attributes and Classes
+  - [x] Binding with Element Attributes and Classes
   - [x] Working with HTML Links Inside Templates
   - [x] Handling HTML Actions
   - [ ] Using Template Input Helpers
@@ -53,8 +53,8 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 
 **DAY 4 -  _4 Hours_:**
 
-- [ ] **Ember Controllers**
-  - [ ] Working with Classes and Instances
+- [x] **Ember Controllers**
+  - [x] Working with Classes and Instances
   - [x] Handling Actions in Controllers
   - [ ] Working with Transitions
   - [ ] Managing Dependencies Between Controllers
@@ -63,7 +63,7 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
   - [x] Using Components in an Application
   - [x] Using Events in Components
   - [x] Implementing Actions in Components
-  - [ ] Passing Properties to a Component Using Yield with Components
+  - [x] Passing Properties to a Component Using Yield with Components
 
 **DAY 5 -  _4 Hours_:**
 
@@ -80,8 +80,8 @@ Create a [new issue](https://github.com/jensenfleming/Ember-Ramp/issues/new) to 
 **DAY 1-  _4 Hours_:**
 
 - [ ] **Ember Models and Ember Data**
-  - [ ] Understanding the Functionalities of Ember
-  - [ ] Creating, Reading, Updating, and Deleting Records with Ember Data
+  - [x] Understanding the Functionalities of Ember
+  - [x] Creating, Reading, Updating, and Deleting Records with Ember Data
   - [ ] Using Fixtures - [ ] Setting up Fixtures with Ember CLI Mirage
   - [ ] Customizing the Adapter and Serializer
   - [ ] Working with Relationships
@@ -180,7 +180,7 @@ Purpose : To have an Emperical Score of His Skillset at the end of the Plan, to 
 
 **DAYS 1-5 - _20 Hours_:**
 
-- [ ] Develop App from the ground up using EmberJS
+- [x] Develop App from the ground up using EmberJS
 - [ ] TSM Gives Report to PXM and Headspace Team
 - [ ] TSM Communicates to Partner on the level of Confidence on the next check-in
 
